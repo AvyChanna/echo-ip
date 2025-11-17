@@ -20,7 +20,7 @@ rust-version = "1.85.0"
 async-trait = "0.1.89"
 axum = { version = "0.8.7", features = ["macros"] }
 axum-extra = { version = "0.12.2", features = ["routing"] }
-clap = { version = "4.5.51", features = ["derive"] }
+clap = { version = "4.5.52", features = ["derive"] }
 hickory-resolver = "0.25.2"
 maxminddb = { version = "0.26.0", features = ["simdutf8"] }
 moka = { version = "0.12.11", features = ["future"] }
